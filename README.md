@@ -30,48 +30,48 @@ This repository contains Java programs along with their respective outputs for b
 
 ## 📌 Program 02: String Operations
 
-- [program2a](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringOperation.png)
-- [program2b](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringBufferBuilder.png)
+- [String Operation](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringOperation.png)
+- [String BufferBuilder](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringBufferBuilder.png)
 
 ---
 
-## 📌 Program 03: String Operations
+## 📌 Program 03: String Handling Operations
 
 ### Program 3a
-- [Output 1](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingStringOperation.png)
+- [StringHandling StringOperation](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingStringOperation.png)
 
 
 ### Program 3b&c String Excercise Program
 
 ### 📝 Exercises
 
-- [Exercise 1](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingLab3null.png)
-- [Exercise 2](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingSubString.png)
-- [Exercise 3](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingreverse.png)
-- [Exercise 4](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingLab3palindrome.png)
-- [Exercise 5](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingWhiteSpace.png)
-- [Exercise 6](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingLab3capital.png)
-- [Exercise 7](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingTruncate.png)
-- [Exercise 8](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingLab3numeric.png)
-- [Exercise 9](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingLab3RandomString.png)
-- [Exercise 10](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingWord.png)
+- [StringHandling null](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingLab3null.png)
+- [StringHandling SubString](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingSubString.png)
+- [StringHandling  reverse](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingreverse.png)
+- [StringHandling palindrome](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingLab3palindrome.png)
+- [StringHandling WhiteSpace](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingWhiteSpace.png)
+- [StringHandling capital](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingLab3capital.png)
+- [StringHandling Truncate](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingTruncate.png)
+- [StringHandling numeric](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingLab3numeric.png)
+- [StringHandling RandomString](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingLab3RandomString.png)
+- [StringHandling Word](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/StringHandlingWord.png)
 
 ---
 
 ## 📌 Program 4: Swing Programs
 
-- [Swing 4a](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/SwingsLab4Swing.png)
-- [Swing 4b](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/SwingsLab4Button.png)
-- [Swing 4c](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/SwingsLab4Image.png)
+- [Swings Swing](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/SwingsLab4Swing.png)
+- [Swings Button](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/SwingsLab4Button.png)
+- [Swings Image](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/SwingsLab4Image.png)
 
 ---
 
 ## 📌 Program 5: Multiple GUI Programs
 
-- [5a](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/SwingLab5JList.png)
-- [5b](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/SwingLab5TabbedPannel.png)
-- [5c](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/SwingLab5Country.png)
-- [5d](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/SwingLab5ColorTabbed.png)
+- [Swing JList](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/SwingLab5JList.png)
+- [Swing TabbedPannel](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/SwingLab5TabbedPannel.png)
+- [Swing Country](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/SwingLab5Country.png)
+- [Swing ColorTabbed](https://github.com/Nisarga0904/Advanced-Java/blob/main/Output/SwingLab5ColorTabbed.png)
 
 ---
 

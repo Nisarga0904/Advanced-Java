@@ -8,7 +8,7 @@ existing coffee product in the table with its id. [Create a table coffee with fi
     String url = "jdbc:mysql://localhost:3306/test";
     String username = "root";
     String password = ""; // Replace with your MySQL password
-
+ 
     Connection conn = null;
     PreparedStatement psUpdate = null;
     Statement stmt = null;
