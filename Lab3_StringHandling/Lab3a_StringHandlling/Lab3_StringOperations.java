@@ -8,7 +8,7 @@
 package StringHandling.String_Functions;
 import java.util.Scanner;
 
-public class StringOperations {
+public class Lab3_StringOperations {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
