@@ -12,10 +12,10 @@ import javax.swing.JList;
 import javax.swing.JScrollPane;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
-public class Country extends JFrame {
+public class  Lab5_Country extends JFrame {
     private JList<String> countryList;
     private Map<String, String> countryCapitalMap;
-    public Country() {
+    public  Lab5_Country() {
         countryCapitalMap = new HashMap<>();
         countryList = new JList<>();
         countryCapitalMap.put("USA", "Washington D.C.");
@@ -57,6 +57,6 @@ public class Country extends JFrame {
     }
 
     public static void main(String[] args) {
-        new Country();
+        new  Lab5_Country();
     }
 }
