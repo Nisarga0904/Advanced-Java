@@ -1,7 +1,7 @@
 // Write a java program for getting different colors through ArrayList interface and delete nth
 // element from the ArrayList object by using remove by index
 import java.util.*;
-public class ArrayListp5 {
+public class Lab1_ArrayListp5 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		List<String> ls = new ArrayList<>();
