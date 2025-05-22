@@ -2,7 +2,7 @@
 // using user defined function countOccurrences()
 
 package StringHandling.String_Functions;import java.util.Scanner;
-public class SubString {
+public class Lab3_SubString {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the main string: ");
