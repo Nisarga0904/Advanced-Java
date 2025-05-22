@@ -3,7 +3,7 @@
 // defined function isNullOrEmpty().
 package StringHandling.String_Functions;
 import java.util.Scanner;
-public class Null {
+public class Lab3_Null {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a string: ");
