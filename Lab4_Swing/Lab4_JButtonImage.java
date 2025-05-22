@@ -5,7 +5,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-public class JButtonImage extends JFrame {
+public class Lab4_JButtonImage extends JFrame {
     private JLabel messageLabel;
     private JButton digitalClockButton;
     private JButton hourglassButton;
