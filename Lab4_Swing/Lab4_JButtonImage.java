@@ -9,7 +9,7 @@ public class Lab4_JButtonImage extends JFrame {
     private JLabel messageLabel;
     private JButton digitalClockButton;
     private JButton hourglassButton;
-    public JButtonImage() {
+    public Lab4_JButtonImage() {
         setTitle("Button Image Example");
         setSize(400, 200);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -42,6 +42,6 @@ public class Lab4_JButtonImage extends JFrame {
         setVisible(true);
     }
     public static void main(String[] args) {
-        SwingUtilities.invokeLater(() -> new JButtonImage());
+        SwingUtilities.invokeLater(() -> new Lab4_JButtonImage());
     }
 }
