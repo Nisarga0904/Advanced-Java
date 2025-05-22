@@ -5,7 +5,7 @@
 
 package String;
 
-public class StringBufferBuilder {
+public class Lab2b_StringBufferBuilder {
     public static void main(String[] args) {
         final int iterations = 10000;
         String textToAppend = "AIET";
