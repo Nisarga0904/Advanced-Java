@@ -2,7 +2,7 @@
 // and punctuation) using user defined function isPalindrome():
 package StringHandling.String_Functions;
 import java.util.Scanner;
-public class Palindrome {
+public class Lab3_Palindrome {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a string to check for palindrome: ");
