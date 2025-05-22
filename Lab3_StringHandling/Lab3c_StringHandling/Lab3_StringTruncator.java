@@ -2,7 +2,7 @@
 // defined function truncate()
 package StringHandling.String_Functions;
 import java.util.Scanner;
-public class StringTruncator {
+public class Lab3_StringTruncator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the string: ");
