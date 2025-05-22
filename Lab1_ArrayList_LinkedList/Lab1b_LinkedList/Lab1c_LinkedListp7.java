@@ -4,10 +4,10 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.*;
-public class LinkedListp7 {
+public class Lab1c_LinkedListp7 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		LinkedList<String>	ls = new LinkedList<>();
+		LinkedList<String> ls = new LinkedList<>();
 		ls.add("Orange");
 		ls.add("geen");
 		ls.add("pink");
