@@ -7,7 +7,7 @@ import java.awt.event.ActionListener;
 import javax.swing.*;
 public class Lab4_JButtonExample{
 JLabel l1;
-JButtonExample(){
+Lab4_JButtonExample(){
 JFrame f=new JFrame("Button Example");
 l1=new JLabel();
 l1.setBounds(50,50, 700,100);
@@ -36,6 +36,6 @@ f.setVisible(true);
 f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 }
 public static void main(String[] args) {
-new JButtonExample();
+new Lab4_JButtonExample();
 }
 }
