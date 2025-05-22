@@ -4,9 +4,9 @@
 package Swing5.Swings;
 import java.awt.Color;
 import javax.swing.*;
-public class TabbedPaneExample {
+public class  Lab5_TabbedPaneExample {
 JFrame f;
-TabbedPaneExample(){
+ Lab5_TabbedPaneExample(){
 f=new JFrame();
 JPanel p1=new JPanel();
 JPanel p2=new JPanel();
@@ -26,5 +26,5 @@ f.setLayout(null);
 f.setVisible(true);
 }
 public static void main(String[] args) {
-new TabbedPaneExample();
+new  Lab5_TabbedPaneExample();
 }}
