@@ -1,7 +1,7 @@
 // Write a Java program to insert the specified element at the end of a linked list.( using
 // l_listobj.offerLast("Pink"))
 import java.util.*;
-public class LinkedListp8 {
+public class Lab1c_LinkedListp8 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
