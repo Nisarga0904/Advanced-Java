@@ -1,7 +1,7 @@
 // Write a java program for getting different colors through ArrayList interface and extract the
 // elements 1st and 2nd from the ArrayList object by using SubList()
 import java.util.*;
-public class ArrayListp4 {
+public class Lab1_ArrayListp4 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		List<String> ls = new ArrayList<>();
