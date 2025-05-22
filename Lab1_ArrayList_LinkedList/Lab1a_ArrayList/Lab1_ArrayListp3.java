@@ -1,7 +1,7 @@
 // Write a java program for getting different colors through ArrayList interface and sort them
 // using Collections.sort( ArrayListObj)
 import java.util.*;
-public class ArrayListp3 {
+public class Lab1_ArrayListp3 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		List<String> ls = new ArrayList<>();
