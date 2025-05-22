@@ -3,7 +3,7 @@
 
 package StringHandling.String_Functions;
 import java.util.Scanner;
-public class NumericChecker {
+public class Lab3_NumericChecker {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a string : ");
