@@ -4,7 +4,7 @@
 
 package StringHandling.String_Functions;
 import java.util.Scanner;
-public class WhiteSpaceRemover {
+public class Lab3_WhiteSpaceRemover {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a string with whitespace: ");
