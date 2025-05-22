@@ -5,7 +5,7 @@ import java.awt.Font;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.*;
-public class JButtonExample{
+public class Lab4_JButtonExample{
 JLabel l1;
 JButtonExample(){
 JFrame f=new JFrame("Button Example");
