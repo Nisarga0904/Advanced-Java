@@ -3,7 +3,7 @@
 
 package StringHandling.String_Functions;
 import java.util.Scanner;
-public class WordCounter {
+public class Lab3_WordCounter {
     public static int countWords(String str) {
         String[] words = str.trim().split("\\s+");
         if (str.isEmpty()) {
