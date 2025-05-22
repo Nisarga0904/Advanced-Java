@@ -4,8 +4,8 @@
 package Swing5.Swings;
 import javax.swing.*;
 import java.awt.*;
-public class ColorTabbedPane extends JFrame {
-    public ColorTabbedPane() {
+public class Lab5_ColorTabbedPane extends JFrame {
+    public  Lab5_ColorTabbedPane() {
         JTabbedPane tabbedPane = new JTabbedPane();
         JPanel cyanPanel = new JPanel();
         cyanPanel.setBackground(Color.CYAN);
@@ -25,7 +25,7 @@ public class ColorTabbedPane extends JFrame {
     }
 
     public static void main(String[] args) {
-        SwingUtilities.invokeLater(() -> new ColorTabbedPane());
+        SwingUtilities.invokeLater(() -> new  Lab5_ColorTabbedPane());
     }
 }
 
