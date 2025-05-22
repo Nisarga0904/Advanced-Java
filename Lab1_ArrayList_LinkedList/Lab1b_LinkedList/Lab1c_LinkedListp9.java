@@ -1,7 +1,7 @@
 // Write a Java program to display elements and their positions in a linked list ( using
 // l_listobj.get(p) )
 import java.util.*;
-public class LinkedListp9 {
+public class Lab1c_LinkedListp9 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		LinkedList<String> ls = new LinkedList<>();
