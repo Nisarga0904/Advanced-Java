@@ -7,7 +7,7 @@
 package String;
 import java.util.Scanner;
 
-public class StringOperation {
+public class Lab2a_StringOperation {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
