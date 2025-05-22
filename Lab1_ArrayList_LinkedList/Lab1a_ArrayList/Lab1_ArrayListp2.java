@@ -1,7 +1,7 @@
 // Write a java program for getting different colors through ArrayList interface and remove the
 // 2nd element and color "Blue" from the ArrayList
 import java.util.*;
-public class ArrayListp2 {
+public class Lab1_ArrayListp2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		List<String> ls = new ArrayList<>();
