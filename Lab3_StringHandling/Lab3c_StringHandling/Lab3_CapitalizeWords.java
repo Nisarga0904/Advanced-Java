@@ -3,7 +3,7 @@
 
 package StringHandling.String_Functions;
 import java.util.Scanner;
-public class CapitalizeWords {
+public class Lab3_CapitalizeWords {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a sentence: ");
